@@ -1,5 +1,5 @@
 {
-  "name": "redeye/imager-x-storage-driver-for-fort-rabbit",
+  "name": "redeyedevelopment/imager-x-storage-driver-for-fort-rabbit",
   "description": "External storage driver for Imager X that integrates with fortrabbit's Object Storage",
   "type": "craft-plugin",
   "version": "1.0.0",
