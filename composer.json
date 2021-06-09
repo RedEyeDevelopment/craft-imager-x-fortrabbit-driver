@@ -1,0 +1,41 @@
+{
+    "name": "redeye/imager-x-storage-driver-for-fort-rabbit",
+    "description": "External storage driver for Imager X that integrates with fortrabbit's Object Storage",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "imager x storage driver for fortrabbit"
+    ],
+    "support": {
+        "docs": "https://github.com/RedEyeDevelopment/imager-x-storage-driver-for-fort-rabbit/blob/master/README.md",
+        "issues": "https://github.com/RedEyeDevelopment/imager-x-storage-driver-for-fort-rabbit/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Red Eye Development",
+            "homepage": "https://redeye.dev"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "redeye\\imagerxstoragedriverforfortrabbit\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Imager X Storage Driver for FortRabbit",
+        "handle": "imager-x-storage-driver-for-fort-rabbit",
+        "developer": "Red Eye Development",
+        "developerUrl": "https://redeye.dev",
+        "documentationUrl": "https://github.com/RedEyeDevelopment/imager-x-storage-driver-for-fort-rabbit/blob/master/README.md",
+        "changelogUrl": "https://raw.githubusercontent.com/RedEyeDevelopment/imager-x-storage-driver-for-fort-rabbit/master/CHANGELOG.md",
+        "class": "redeye\\imagerxstoragedriverforfortrabbit\\ImagerXStorageDriverForFortrabbit"
+    }
+}
