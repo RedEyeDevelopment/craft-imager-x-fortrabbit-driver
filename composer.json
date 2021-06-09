@@ -37,5 +37,6 @@
     "documentationUrl": "https://github.com/RedEyeDevelopment/craft-imager-x-fortrabbit-driver/blob/master/README.md",
     "changelogUrl": "https://raw.githubusercontent.com/RedEyeDevelopment/craft-imager-x-fortrabbit-driver/main/CHANGELOG.md",
     "class": "redeye\\imagerxstoragedriverforfortrabbit\\ImagerXStorageDriverForFortrabbit"
-  }
+  },
+  "minimum-stability": "dev"
 }
