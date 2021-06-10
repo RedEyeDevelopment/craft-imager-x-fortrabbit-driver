@@ -21,6 +21,8 @@ use spacecatninja\imagerx\models\ConfigModel;
 use spacecatninja\imagerx\services\ImagerService;
 use spacecatninja\imagerx\externalstorage\ImagerStorageInterface;
 
+use League\Flysystem\AwsS3v3\AwsS3Adapter;
+
 class FortrabbitStorage implements ImagerStorageInterface
 {
   /**
