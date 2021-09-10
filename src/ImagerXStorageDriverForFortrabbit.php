@@ -17,7 +17,7 @@ use craft\base\Plugin;
 use craft\services\Plugins;
 use craft\events\PluginEvent;
 
-use redeye\imagerxdospacesdriver\externalstorage\FortrabbitStorage;
+use redeye\imagerxstoragedriverforfortrabbit\externalstorage\FortrabbitStorage;
 
 use yii\base\Event;
 

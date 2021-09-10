@@ -2,7 +2,7 @@
   "name": "redeyedevelopment/imager-x-storage-driver-for-fort-rabbit",
   "description": "External storage driver for Imager X that integrates with fortrabbit's Object Storage",
   "type": "craft-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "craft",
     "cms",
@@ -23,7 +23,7 @@
   ],
   "require": {
     "craftcms/cms": "^3.0.0",
-    "spacecatninja/imager-x": "v3.4.0",
+    "spacecatninja/imager-x": "^v3.4.0",
     "aws/aws-sdk-php": "^3.0.0"
   },
   "autoload": {
